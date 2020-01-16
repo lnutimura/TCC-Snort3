@@ -29,7 +29,7 @@ A metodologia deste projeto pode ser resumida da seguinte forma:
 Infelizmente, este projeto não pode ser facilmente replicado usando este repositório.
 Uma versão melhorada deste projeto (e do repositório) pode ser encontrada [aqui](https://github.com/lnutimura/ml_classifiers), referente a minha dissertação de mestrado.
 
-**OBS** Ambos os classificadores foram treinados usando o [**ISCX 2012 IDS Dataset**](http://www.unb.ca/cic/datasets/ids.html).
+**OBS.** Ambos os classificadores foram treinados usando o [**ISCX 2012 IDS Dataset**](http://www.unb.ca/cic/datasets/ids.html).
 
 ## O que você deveria encontrar aqui...
 ### Arquivo(s) *core*:
