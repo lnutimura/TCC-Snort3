@@ -7,7 +7,7 @@ The methodology of this project can be summarized as follows:
 * Once the Snort++ is set up and running (with the --plugin-path parameter), the classification models are then loaded into the plugin a.k.a Inspector to classify live (or offline) network connections (or flows).
 
 Unfortunately, this project can't be easily replicated using this repository.
-An improved version of this project can be found [here](https://github.com/lnutimura/ml_classifiers), regarding my masters thesis.
+An improved version of this project can be found [here](https://github.com/lnutimura/ml_classifiers), regarding my master's thesis.
 
 **P.S.** Both classifiers were trained using the [**ISCX 2012 IDS Dataset**](http://www.unb.ca/cic/datasets/ids.html).
 
