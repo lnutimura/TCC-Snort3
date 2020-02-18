@@ -31,7 +31,7 @@ Uma versão melhorada deste projeto (e do repositório) pode ser encontrada [aqu
 
 **OBS.** Ambos os classificadores foram treinados usando o [**ISCX 2012 IDS Dataset**](http://www.unb.ca/cic/datasets/ids.html).
 
-## O que você deveria encontrar aqui...
+## O que você deve encontrar aqui...
 ### Arquivo(s) *core*:
 - Um **Snort++ Inspector** capaz de classificar conexões de rede utilizando a MLP e o OPF já treinados (Resources/Plugin);
 - Um programa em **C++** usado para treinar/testar a MLP e o OPF utilizados pelo Snort++ (Resources/Tools/ann_xml.cc);
