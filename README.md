@@ -1,3 +1,5 @@
+>**Note:** *This repo does not build/compile. However, I'm keeping it because it might be useful as a reference for someone who wants to build their own Snort3/Snort++ Inspector. For a buildable project and a more well-organized repo, please, check the text below.*
+
 # 🇺🇸 TCC-Snort3
 Snort++ Inspector for Anomaly-based Detection, developed for my undergraduate thesis. It uses a Multilayer Perceptron (MLP) and an Optimum-Path Forest (OPF) based classifier to classify network connections — offline or online — as *normal* or *attack*.
 
